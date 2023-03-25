@@ -3,15 +3,11 @@ body {
     margin: 0;
     background-color: rgb(86, 36, 116);
 }
-h1 {
+h1, h2 {
     text-align: center;
     filter: drop-shadow(5px 5px 3px red);
 }
 
-h2 {
-    text-align: center;
-    filter: drop-shadow(4px 4px 2px red);
-}
 
 h3 {
     text-align: center;
@@ -35,7 +31,7 @@ h3 {
 }
 
 .navbar li {
-    margin: 0 10px;
+    margin: 0 5px;
 }
 
 .navbar a {
